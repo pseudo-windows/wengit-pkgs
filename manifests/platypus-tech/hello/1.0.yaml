@@ -1,0 +1,11 @@
+Id: 'platypus-tech.hello'
+Publisher: 'Platypus Tech'
+Name: 'hello'
+Version: '1.0'
+License: 'The Unlicense'
+InstallerType: 'psw'
+Installers:
+    - Arch: 'x86, arm, arm64, x86_64'
+    Url: 'https://github.com/Platypus-Tech/hello/'
+    Sha256: 'idkidkidkidkidkidkidkidkidkidkdik'
+ManifestVersion: 1.0
